@@ -1,0 +1,3 @@
+/home/warsay/Documents/Projects/CelesteCopy/Celestecpy/build/CMakeFiles/my_opengl_project.dir
+/home/warsay/Documents/Projects/CelesteCopy/Celestecpy/build/CMakeFiles/edit_cache.dir
+/home/warsay/Documents/Projects/CelesteCopy/Celestecpy/build/CMakeFiles/rebuild_cache.dir

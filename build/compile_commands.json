@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/warsay/Documents/Projects/CelesteCopy/Celestecpy/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/my_opengl_project.dir/src/main.c.o -c /home/warsay/Documents/Projects/CelesteCopy/Celestecpy/src/main.c",
+  "file": "/home/warsay/Documents/Projects/CelesteCopy/Celestecpy/src/main.c"
+},
+{
+  "directory": "/home/warsay/Documents/Projects/CelesteCopy/Celestecpy/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/my_opengl_project.dir/src/glad/glad.c.o -c /home/warsay/Documents/Projects/CelesteCopy/Celestecpy/src/glad/glad.c",
+  "file": "/home/warsay/Documents/Projects/CelesteCopy/Celestecpy/src/glad/glad.c"
+}
+]
